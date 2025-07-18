@@ -4,11 +4,11 @@
 <b>Discipline | <b> Physical Science
 :--|:--|
 <b> Lab | <b> Harmonic Motion and Waves
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Colpitts Oscillator
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+A Colpitts oscillator, invented in 1920 by American engineer Edwin H. Colpitts, is one of several designs for electronic oscillator circuits using the combination of one inductance (L) with two capacitors (C1, C2) for frequency determination.
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
