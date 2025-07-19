@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which one is not the function of single transistor",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amplifying",
+        "b": "Switching",
+        "c": "Voltage dividing",
+        "d": "Differentiating"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Amplifying is a basic function of a transistor.",
+        "b": "Switching is a common use of transistors in digital logic.",
+        "c": "Voltage division is typically done using resistors, not a single transistor.",
+        "d": "Transistors can be used in differentiator circuits but typically not alone."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which layer is the most thin depletion layer in transistor?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Collector-Base",
+        "b": "Collector-Emitter",
+        "c": "Base-Emitter",
+        "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Collector-base junction is reverse-biased and has a wider depletion region.",
+        "b": "This is not a junction in terms of depletion layers.",
+        "c": "Correct—base-emitter junction is forward-biased, so it has the thinnest depletion layer.",
+        "d": "Incorrect—only base-emitter has the thinnest depletion layer."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
