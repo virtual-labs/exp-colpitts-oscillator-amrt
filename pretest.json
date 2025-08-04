@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which one is not the function of single transistor",
+      "answers": {
+        "a": "Amplifying",
+        "b": "Switching",
+        "c": "Voltage dividing",
+        "d": "Differentiating"
+      },
+      "explanations": {
+        "a": "Amplifying is a basic function of a transistor.",
+        "b": "Switching is a common use of transistors in digital logic.",
+        "c": "Voltage division is typically done using resistors, not a single transistor.",
+        "d": "Transistors can be used in differentiator circuits but typically not alone."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which layer is the most thin depletion layer in transistor?",
+      "answers": {
+        "a": "Collector-Base",
+        "b": "Collector-Emitter",
+        "c": "Base-Emitter",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "Collector-base junction is reverse-biased and has a wider depletion region.",
+        "b": "This is not a junction in terms of depletion layers.",
+        "c": "Correct—base-emitter junction is forward-biased, so it has the thinnest depletion layer.",
+        "d": "Incorrect—only base-emitter has the thinnest depletion layer."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the minimum requirement for developing an oscillator",
+      "answers": {
+        "a": "Tank circuit",
+        "b": "Amplifier",
+        "c": "Amplifier and tank circuit",
+        "d": "Tank circuit and feed back network"
+      },
+      "explanations": {
+        "a": "A tank circuit alone cannot maintain oscillation.",
+        "b": "Amplifier is necessary but not sufficient alone.",
+        "c": "Needs a feedback network to sustain oscillations.",
+        "d": "Correct—oscillator requires both a tank circuit and a feedback network."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the importance of feedback network",
+      "answers": {
+        "a": "To oscillate the tank circuit",
+        "b": "To provide input to the amplifier",
+        "c": "To provide high gain",
+        "d": "Protect the output from damping"
+      },
+      "explanations": {
+        "a": "Correct—feedback sustains oscillation in the tank circuit.",
+        "b": "Partially true but not the primary function.",
+        "c": "Gain comes from the amplifier, not the feedback alone.",
+        "d": "Damping is related but not the core reason for feedback."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A Colpitts oscillator uses",
+      "answers": {
+        "a": "tapped coil",
+        "b": "inductive feedback",
+        "c": "tapped capacitance",
+        "d": "no tuned LC circuit"
+      },
+      "explanations": {
+        "a": "Used in Hartley oscillator, not Colpitts.",
+        "b": "Not the typical configuration of Colpitts.",
+        "c": "Correct—Colpitts oscillator uses a capacitive voltage divider (tapped capacitance).",
+        "d": "Incorrect—Colpitts oscillator uses a tuned LC circuit."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
